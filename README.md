@@ -1,2 +1,4 @@
 # Ann-Arbor-AI-ML-Group
-Ann Arbor AI/ML Meetup repository
+This repository contains material from the [Ann Arbor AI/ML Meetup Group](https://www.meetup.com/ann-arbor-machine-learning-meetup/). We currently meet on the first Thursday of each month.
+
+We are a dedicated group of learners who come together regularly, typically on a monthly basis, to explore and discuss our shared interests in machine learning, technology, and the sciences. Based in the Ann Arbor/Ypsilanti area, we’re committed to building a local and social community. Most of our meetups are held in person, focusing on broad, foundational aspects of AI and ML, rather than specialized fields like NLP or CV. Our group is inclusive, welcoming participants from all backgrounds: self-learners, professionals, entrepreneurs, students, and newcomers to AI/ML. Anyone interested in these fields is welcome to join us in our pursuit of continuous learning and development.
